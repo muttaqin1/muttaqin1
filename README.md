@@ -49,6 +49,9 @@
 
 <h2>⚙️ GitHub Analytics</h2>
 
+
+![](https://komarev.com/ghpvc/?username=muttaqin1&style=flat&color=blueviolet)
+
 <p align="center">
 <a href="https://github.com/muttaqin1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muttaqin1&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
