@@ -18,8 +18,8 @@
 <strong>📒📺 In my free time, I watch anime and read books.</strong>
  </p>
  <p align="left"> <strong> 🧑‍🤝‍🧑 I’m looking to collaborate with other Developers </strong></p>
- <p align="left"> <strong> ✉️ You can send me emails at <a style="text-decoration: none" href="mailto:mdmuttaqin20@gmail.com">mdmuttaqin20@gmail.com</a>.
- I'll try to respond as soon as I can. </strong></p>
+ <p align="left"> <strong> ✉️ You can send me emails at <a style="text-decoration: none" href="mailto:mdmuttaqin20@gmail.com">mdmuttaqin20@gmail.com</a>
+</strong></p>
  
  <p align="center"> 
 <strong>🔎 Driven and dedicated individual seeking internship opportunities to gain hands-on experience in backend development. <i><a  style="text-decoration: none" href="cv-link.pdf" download>Download my CV</a> </i></strong>
