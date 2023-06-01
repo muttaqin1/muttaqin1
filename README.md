@@ -53,8 +53,14 @@
 ![](https://komarev.com/ghpvc/?username=muttaqin1&style=flat&color=blueviolet)
 
 <p align="center">
-<a href="https://github.com/muttaqin1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muttaqin1&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muttaqin1&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
+  <a href="https://github.com/muttaqin1">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muttaqin1&theme=transparent" />
+  </a>
+  <a href="https://github.com/muttaqin1">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muttaqin1&theme=transparent&card_width=338&hide=stars" />
+  </a>
+  <a href="https://github.com/muttaqin1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muttaqin1&exclude_repo=&hide=vim%20script,cmake,html,css,makefile&layout=compact&hide_border=true&theme=transparent&card_width=338" />
+    
+  </a>
 </p>
