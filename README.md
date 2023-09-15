@@ -22,8 +22,7 @@
 </strong></p>
  
  <p align="center"> 
-<strong>🔎 Driven and dedicated individual seeking internship opportunities to gain hands-on experience in backend development. <i><a  style="text-decoration: none" href="https://raw.githubusercontent.com/muttaqin1/muttaqin1/master/Resume.png" download>Download my CV</a> </i></strong>
- </p>
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/muttaqin1/muttaqin1/master/Night-Coding.gif" align="right"/>
 
