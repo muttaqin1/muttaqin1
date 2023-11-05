@@ -8,23 +8,18 @@
  <strong>💡 I like to explore new technologies related to backend development</strong>.
 </p> 
  <p align="left"> 
- <strong>🎓 I'm currently learning Data structures and algorithm.</strong>
- </p> 
-  
- <p align="left"> 
-<strong>🌱 I'm on track for learning more about Backend Development.</strong>
+ <strong>🎓 I'm currently learning competitive programming.</strong>
  </p> 
  <p align="left"> 
 <strong>📒📺 In my free time, I watch anime and read books.</strong>
  </p>
- <p align="left"> <strong> 🧑‍🤝‍🧑 I’m looking to collaborate with other Developers </strong></p>
+ <p align="left"> <strong> 🧑‍🤝‍🧑 I'm perpetually enthusiastic about joining forces for open-source endeavors. </strong></p>
  <p align="left"> <strong> ✉️ You can send me emails at <a style="text-decoration: none" href="mailto:mdmuttaqin20@gmail.com">mdmuttaqin20@gmail.com</a>
 </strong></p>
  
  <p align="center"> 
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/muttaqin1/muttaqin1/master/Night-Coding.gif" align="right"/>
 
 <h2> 🛠 Tech Stack</h2>
 
@@ -47,11 +42,16 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)&nbsp;
 
 <h2>⚙️ GitHub Analytics</h2>
+<p align="center" margin="3em">
+<img src="https://komarev.com/ghpvc/?username=muttaqin1&style=flat&color=blueviolet" />
 
+  
+</p>
 
-![](https://komarev.com/ghpvc/?username=muttaqin1&style=flat&color=blueviolet)
 
 <p align="center">
+
+  
   <a href="https://github.com/muttaqin1">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muttaqin1&theme=transparent" />
   </a>
